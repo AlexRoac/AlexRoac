@@ -177,7 +177,7 @@ Open Source
 <p align="center">
 
 <a href="https://github.com/AlexRoac">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="35"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jes%C3%BAs-alejandro-rodriguez-acosta-a275b6289/">
