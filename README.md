@@ -29,6 +29,26 @@ Right now I'm:
 
 ---
 
+## Around the Web
+
+<p align="center">
+
+<a href="https://github.com/AlexRoac">
+<img src="https://skillicons.dev/icons?i=github" height="35"/>
+</a>
+
+<a href="https://www.linkedin.com/in/jes%C3%BAs-alejandro-rodriguez-acosta-a275b6289/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+</a>
+
+<a href="https://www.instagram.com/alejandroacost_/">
+<img src="https://skillicons.dev/icons?i=instagram" height="35"/>
+</a>
+
+</p>
+
+---
+
 ## Featured Project
 
 ### 🚌 RuTampico
@@ -169,26 +189,6 @@ Open Source
 * 📊 Data-driven applications
 * 🌎 GIS and location-based applications
 * 🚀 Building scalable digital products
-
----
-
-## Around the Web
-
-<p align="center">
-
-<a href="https://github.com/AlexRoac">
-<img src="https://skillicons.dev/icons?i=github" height="35"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jes%C3%BAs-alejandro-rodriguez-acosta-a275b6289/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
-</a>
-
-<a href="https://www.instagram.com/alejandroacost_/">
-<img src="https://skillicons.dev/icons?i=instagram" height="35"/>
-</a>
-
-</p>
 
 ---
 
